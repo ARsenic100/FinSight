@@ -72,8 +72,8 @@ income, track expenses, and maintain overall financial clarity.
 
 ## 🔮 Future Enhancements
 
--   Budget planner\
--   Analytics dashboard\
--   CSV/PDF export\
--   Multi-currency\
+-   Budget planner
+-   Analytics dashboard
+-   CSV/PDF export
+-   Multi-currency
 -   Dark mode
